@@ -57,14 +57,14 @@
   },
   "dependencies": {
     "@feathers-plus/cli-audit": "^0.0.10",
-    "@feathers-plus/generator-feathers-plus": "https://github.com/ViljarVoidula/generator-feathers-plus.git#master",
+    "@feathers-plus/generator-feathers-plus": "git+https://github.com/ViljarVoidula/generator-feathers-plus.git#master",
     "chalk": "2.3.0",
     "clear": "0.0.1",
     "clui": "0.3.6",
     "commander": "2.11.0",
     "figlet": "1.2.0",
     "inquirer": "3.3.0",
-    "minimist": "1.2.0",
+    "minimist": "^1.2.5",
     "yeoman-environment": "2.0.5"
   },
   "devDependencies": {
