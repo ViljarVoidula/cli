@@ -61,6 +61,29 @@
     validate-npm-package-name "^3.0.0"
     yeoman-generator "3.1.1"
 
+"@feathers-plus/generator-feathers-plus@https://github.com/ViljarVoidula/generator-feathers-plus.git":
+  version "0.8.9"
+  resolved "https://github.com/ViljarVoidula/generator-feathers-plus.git#3ade9dc9516914bd2cdfbc70f2a991e476766d92"
+  dependencies:
+    "@feathers-plus/common" "0.1.0"
+    "@feathersjs/tools" "0.1.7"
+    ajv "^6.12.2"
+    debug "^4.1.1"
+    diff "^3.5.0"
+    faker "^4.1.0"
+    json-schema-deref-sync "^0.13.0"
+    json-schema-seeder "0.1.10"
+    lodash "^4.17.15"
+    lodash.merge "^4.6.2"
+    mongoose "^5.9.10"
+    pluralize "7.0.0"
+    sequelizer "^1.1.4"
+    snazzy "7.1.1"
+    traverse "0.6.6"
+    update-notifier "^2.5.0"
+    validate-npm-package-name "^3.0.0"
+    yeoman-generator "3.1.1"
+
 "@feathersjs/jscodeshift@^0.5.0":
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/@feathersjs/jscodeshift/-/jscodeshift-0.5.0.tgz#779c44394fbafee5c5d4afd4cb15aef16f581f10"
